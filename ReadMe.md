@@ -3,12 +3,12 @@ DevOps approach towards building a webshop using RPDM. "You build it, you run it
 
 # steps
 
-- 1) One Build the website and Test it locally 
+- 1) Build the website and Test it locally 
 - 2) Package it into a container
 - 3) Deploy and host it on AWS or Hetzner as a microservice
 - 4) Create a domain & Setup a load balancer
 ``
-## I
+## I - Environment setup
 Install Python, mysql, nodejs and django module on venv
 Postman to test your API - ( curl -o- "https://dl-cli.pstmn.io/install/linux64.sh" | sh)
 
